@@ -1,7 +1,7 @@
 total_rain = 0
 total_wind = 0
 count = 0
-
+# corrected
 while True:
     data = input()
     rain, wind = map (float, data.split())
